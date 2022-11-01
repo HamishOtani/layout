@@ -1,0 +1,41 @@
+html{
+    font-size: 62.5%;
+    background-color: rgb(57, 48, 42);
+}
+
+.img{
+    width: 100%;
+}
+
+.content{
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.card-list{
+    max-width: 300px;
+}
+
+
+.card-list-title{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 3rem 0;
+    color: white;
+
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    line-height:1.6;
+    margin-bottom: 2rem;
+    text-align: center;
+}
